@@ -1,0 +1,11 @@
+{
+  "name": "timecapsule-queue",
+  "version": "1.0.0",
+  "description": "Timecapsule Queue",
+  "main": "queue_worker.js",
+  "dependencies": {
+    "firebase": "2.x",
+    "firebase-queue": "^1.0.0",
+    "twilio" : "2.11.0"
+  }
+}
